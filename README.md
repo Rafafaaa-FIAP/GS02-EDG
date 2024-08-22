@@ -1,4 +1,4 @@
-<h1 align="center">Global Solution - 2º Semestre - 1º Ano - 1ESPR</h1>
+<h1 align="center">Global Solution 02 - Arduino</h1>
 
 <hr/>
 
@@ -42,18 +42,18 @@ Como solução, criamos um circuito Arduino que utiliza sensores para obter dado
   <li><b>LDR e LED foram utilizados para simular um sensor de turbidez da água, uma vez que o Wokwi não possui esse sensor.</b></li>
 </ul>
 
-<img src="https://github.com/Rafafaaa-FIAP/GS02-EDG/blob/main/circuit.png" alt="circuit" width="500" />
-<h6>Acesse o projeto clicando <a href="https://wokwi.com/projects/399175551749774337">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/GS02-arduino/blob/main/circuit.png" alt="circuit" width="500" />
+<h6>Acesse o projeto clicando <a href="https://wokwi.com/projects/406961707909764097">aqui</a>.</h6>
 
 ### Fluxo
-<img src="https://github.com/Rafafaaa-FIAP/GS02-EDG/blob/main/flow.png" alt="fluxo" width="500" />
-<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/GS02-EDG/blob/main/flows.json">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/GS02-arduino/blob/main/flow.png" alt="fluxo" width="500" />
+<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/GS02-arduino/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard no TagoIO
-<img src="https://github.com/Rafafaaa-FIAP/GS02-EDG/blob/main/dashboard.png" alt="dashboard" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/GS02-arduino/blob/main/dashboard.png" alt="dashboard" width="500" />
 
 ### Firebase
-<img src="https://github.com/Rafafaaa-FIAP/GS02-EDG/blob/main/firebase.png" alt="firebase" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/GS02-arduino/blob/main/firebase.png" alt="firebase" width="500" />
 
 ### Vídeo Demonstrativo
 Acesse o vídeo de demonstração do funcionamento clicando <a href="https://youtu.be/f0vBU6J-aKE">aqui</a>.
